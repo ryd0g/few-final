@@ -1,4 +1,5 @@
 import './App.css';
+import './index.css';
 import Heading from './Heading';
 import MetalMeta from './MetalMeta';
 import BandList from './BandList';

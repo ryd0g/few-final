@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Metal+Mania');
 .Title {
   background-color: lightgray;
   height: 150px;
   color: black;
-  font-family: Helvetica;
+  font-family: 'Metal Mania';
   box-sizing: border-box;
   width: 100%;
   display: flex;
@@ -12,6 +13,6 @@
 }
 .Subtitle {
   color: black;
-  font-family: Helvetica;
+  font-family: 'Metal Mania';
   font-size: 1.5em;
 }
