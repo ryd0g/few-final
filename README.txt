@@ -1,1 +1,1 @@
-GitHub pages link: https://github.com/ryd0g/ReactSiteFinal
+GitHub pages link: https://ryd0g.github.io/few-final/
