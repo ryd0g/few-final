@@ -1,0 +1,22 @@
+.BandList {
+  width: calc(100% - 80px);
+  margin: auto;
+  margin-bottom: 15px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 40px;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  font-family: Helvetica;
+}
+.ListItems {
+  border: solid 2px lightgray;
+  padding: 25px;
+}
+/* Small screens mobile */
+@media only screen and (max-width: 700px) {
+  .BandList {
+    grid-template-columns: 1fr;
+  }
+}

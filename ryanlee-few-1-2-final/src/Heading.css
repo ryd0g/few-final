@@ -1,0 +1,17 @@
+.Title {
+  background-color: lightgray;
+  height: 150px;
+  color: black;
+  font-family: Helvetica;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 1em;
+  margin-bottom: 2em;
+}
+.Subtitle {
+  color: black;
+  font-family: Helvetica;
+  font-size: 1.5em;
+}
